@@ -20,7 +20,7 @@ git branch -M main
 git push -uf origin main
 ```
 
-## Integrate with your tools
+## Integrate with your toolss
 
 - [ ] [Set up project integrations](https://gitlab.com/telehealth2/th-webapp-backend/-/settings/integrations)
 
@@ -86,8 +86,4 @@ You can also document commands to lint the code or run tests. These steps help t
 ## Authors and acknowledgment
 Show your appreciation to those who have contributed to the project.
 
-## License
-For open source projects, say how it is licensed.
 
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
